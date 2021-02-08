@@ -1,6 +1,6 @@
 
 public class Main {
-
+	// 거스름 돈 
 	public static void main(String[] args) {
 		int n = 1260;
 		int cnt = 0;
